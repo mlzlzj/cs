@@ -73,6 +73,8 @@ CCTV早期教育,http://tvgslb.hn.chinamobile.com:8089/180000001001/320230602223
 湖南国际,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182307/main.m3u8
 湖南教育,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104065/main.m3u8
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 
