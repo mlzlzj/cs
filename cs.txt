@@ -309,3 +309,20 @@ CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
 GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 
+NewTV频道,#genre#
+NewTV超级电视剧,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+NewTV超级电影,http://stream.smntv.cn/smtv1/sd/live.m3u8
+NewTV超级综艺,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+NewTV惊悚悬疑,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+NewTV黑莓电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+NewTV哒啵赛事,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
+NewTV精品大剧,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+NewTV魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+NewTV黑莓动画,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+NewTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+NewTV精品宠物,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3a
+NewTV精品体育,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+NewTV欢乐剧场,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
+NewTV精品记录,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+NewTV家庭剧场,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
