@@ -263,12 +263,10 @@ LISTEN ON SPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 
 港台频道,#genre#
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p) [Geo-blocked],https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 TVB Jade (翡翠台) (720p),https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -286,9 +284,11 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+大爱2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
 大爱2,https://epg.pw/stream/d8ecd4005a721625fd1cf30519dc635fdeec60f7a294302874d5638972f56f68.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-动感超人,https://vd3.bdstatic.com/mda-mm49pxqfvevcqbx4/sc/cae_h264/1638687905397245214/mda-mm49pxqfvevcqbx4.mp4
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 动画台,http://37.27.111.214:8080/live/57/hls.m3u8
 东森电影,https://epg.pw/stream/05c7791a4d1db7ba680c3134464550eadb3c82b5fc870c210f38366804382de7.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
@@ -339,6 +339,8 @@ elta影剧,https://epg.pw/stream/87cc5c3cf3742ba6c4211c62ee71c021ee6cd68630ecf85
 民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻HD[1920*1080][1920*10,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻hd,https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台_636,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -354,22 +356,26 @@ elta影剧,https://epg.pw/stream/87cc5c3cf3742ba6c4211c62ee71c021ee6cd68630ecf85
 三立新闻,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
 台视,https://epg.pw/stream/d683ec1b74bb3cac71e6c52bd56e9e0bc2ce256500de142e9ad3f8c63c680cea.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻HD[1920*1080][1920*10,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻台-1,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
 探案台,http://37.27.111.214:8080/live/11/hls.m3u8
 tvb翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+tvbs亚洲,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来体育台,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来综合,https://epg.pw/stream/35977b6d6949604387ec2eef890876cda04cd06dcbc1d89c6d2fa0664da01c7f.m3u8
 卫视电影台,https://epg.pw/stream/2a9da6e179a1605e4f18d81491ca5520deb7f6f9eaa3ed6cd20d7b2cd174cefd.m3u8
 无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
 无线直播,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 无线直播,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
 香港卫视-2,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
-影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 影迷纪实台,https://epg.pw/stream/d1344a6fab49803eb550f0f3c18efa802a3c0a46991358f21ae91f677c23ddfd.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,https://epg.pw/stream/4868f3c2ae2971b2e2280606399ac8827b7310440a7e34de3fbc9ebfbe669b15.m3u8
+中视,https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
 中天新闻,https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
-
