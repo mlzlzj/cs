@@ -534,4 +534,11 @@ TVB,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918
 龙祥,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
 龙祥,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
 龙祥,https://epg.pw/stream/b7ef686d91b8746f89114de71163b0a358eaefda7bfe469a286d9b0adefe6b18.m3u8
-
+万能代理,#genre#
+湖南经视,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.103:9000
+湖南教育,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.252.233:9000
+湖南国际,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.102:9000
+湖南都市,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.104:9000
+湖南电影,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.106:9000
+湖南电视剧,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.108:9000
+湖南爱晚,http://8.138.90.107/tv/proxy/hn/zb.php?id=239.76.253.109:9000
